@@ -263,6 +263,7 @@ body {
   line-height: 1em;
 }
 
+/* Fix font section */
 section {
   padding: 50px 0;
   overflow: hidden;
@@ -299,7 +300,6 @@ section {
 
 .about .content p {
   font-size: 14px;
-  /* margin:15px 0; */
 }
 
 .about .content ul {
@@ -335,8 +335,6 @@ section {
 }
 
 /* Skills */
-
-
 .skill .icon-box {
   display: flex;
   align-items: center;
